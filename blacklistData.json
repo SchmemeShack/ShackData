@@ -86,5 +86,9 @@
    "5c162cf600144a5181457da28dcbc2d5": {
         "ign_at_time": "xehc",
         "reason": "Beamed by egirlTSG"
+    },
+   "7116b103588d40d889dd1b85e8ed8fdc": {
+        "ign_at_time": "bot",
+        "reason": "test bot"
     }
 }
