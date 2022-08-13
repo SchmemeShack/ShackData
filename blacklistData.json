@@ -246,5 +246,9 @@
    "f999bee205184827aad5454a76658beb": {
         "ign_at_time": "BlizCantClear",
         "reason": "lives up to the BlizCantClear ign"
+    },
+   "7116b103588d40d889dd1b85e8ed8fdc": {
+        "ign_at_time": "bot",
+        "reason": "for testing"
     }
 }
